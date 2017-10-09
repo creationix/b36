@@ -1,0 +1,23 @@
+{
+  "name": "b36",
+  "version": "1.0.0",
+  "description": "Simple utility for converting between base36 strings and buffers",
+  "main": "b36.js",
+  "dependencies": {
+    "bigint-base-converter": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creationix/b36.git"
+  },
+  "author": "Tim Caswell <tim@creationix.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creationix/b36/issues"
+  },
+  "homepage": "https://github.com/creationix/b36#readme"
+}
